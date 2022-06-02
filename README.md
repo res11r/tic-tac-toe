@@ -1,0 +1,1 @@
+This is a simple program of Tic Tac Toe, written to practice OOP concepts with Ruby.
